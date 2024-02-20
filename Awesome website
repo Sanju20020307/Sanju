@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome Website</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .logo {
+            font-size: 24px;
+            text-decoration: none;
+            color: #fff;
+        }
+        .nav-items {
+            margin-top: 10px;
+        }
+        .nav-items a {
+            margin-right: 20px;
+            color: #fff;
+            text-decoration: none;
+        }
+        /* Add more styles for other sections (main and footer) */
+    </style>
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">My Website</a>
+        <nav class="nav-items">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <div class="intro">
+            <h1>Welcome to My Website</h1>
+            <p>I am a web developer, and this is my awesome homepage.</p>
+            <button>Learn More</button>
+        </div>
+        <!-- Add more content for the main section -->
+    </main>
+    <footer>
+        <p>© 2024 My Website. All rights reserved.</p>
+        <!-- Add more footer content (contact info, social media links, etc.) -->
+    </footer>
+</body>
+</html>
